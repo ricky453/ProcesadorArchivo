@@ -34,7 +34,7 @@ public class ProcesadorArchivos implements Serializable {
                     char letra = (char) codigo;
                     codigo = lector.read();
                     
-                }LeerArchivo(path);
+                }//LeerArchivo(path);
                                 
 
             } catch (Exception e) {
